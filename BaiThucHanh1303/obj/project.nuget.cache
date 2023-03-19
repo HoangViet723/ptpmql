@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNsqckMeVMgKNlUDyCQ/vU0TvzXmZuBY2+t9dHvz3UVQhGv+kqj7KpuUHb9KIZ2nWNL9xa++TjDqEicCdRbwnw==",
+  "success": true,
+  "projectFilePath": "E:\\ptpmql\\BaiThucHanh1303\\baithuchanh1303.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nguyen Hoang Viet\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Nguyen Hoang Viet\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Nguyen Hoang Viet\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Nguyen Hoang Viet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
